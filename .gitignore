@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Memory Storage
+memory_store/
+
+# Exported Reports
+exports/
+*.pdf
+*.docx
+*.md
+
+# Streamlit Cache
+.streamlit/
+
+# FAISS Index
+*.faiss
+*.pkl
+
+# LangSmith Cache
+.langsmith/
+
+# HuggingFace Cache
+.cache/
+
+# Temporary Files
+temp/
+tmp/
+
+# Testing
+.pytest_cache/
+coverage/
